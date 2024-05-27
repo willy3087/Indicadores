@@ -1,0 +1,18 @@
+Work Item Type,ID,Assigned To,Created Date,Title,Tags,Effort,Original Estimate,Horas executadas,State
+Task,48054,Amanda Aparecida Cruz <amanda.cruz@muralis.com.br>,30/04/2024 11:43:35,Review Cockpit/Dashboard ADM,COMUNIX,8,5,5,To Do
+Task,48055,Amanda Aparecida Cruz <amanda.cruz@muralis.com.br>,30/04/2024 11:44:06,Review Recrutamento x Treinamento,COMUNIX,8,8,6,To Do
+Task,48151,Amanda Aparecida Cruz <amanda.cruz@muralis.com.br>,02/05/2024 10:50:01,Revisão do módulo de Demissão,COMUNIX,5,12,12,To Do
+Task,48435,Amanda Aparecida Cruz <amanda.cruz@muralis.com.br>,07/05/2024 10:50:53,"Revisar: Cadastrar, visualizar, editar",COMUNIX,5,5,5,To Do
+Task,48870,Amanda Aparecida Cruz <amanda.cruz@muralis.com.br>,10/05/2024 13:04:02,Importar clientes,COMUNIX,5,5,3,To Do
+Task,49209,Amanda Aparecida Cruz <amanda.cruz@muralis.com.br>,14/05/2024 18:31:11,Reuniões Amanda [Comunix],COMUNIX,2,4,3,In Progress
+Task,49251,Amanda Aparecida Cruz <amanda.cruz@muralis.com.br>,15/05/2024 11:37:41,Critérios de aceite Getnotas,GETNOTAS,5,2,2,Done
+Task,49252,Amanda Aparecida Cruz <amanda.cruz@muralis.com.br>,15/05/2024 11:47:23,Critérios de aceite COMUNIX,COMUNIX,8,9,6,In Progress
+Task,48040,Júlio Guimarães Costa <julio.costa@muralis.com.br>,30/04/2024 11:16:45,Ações a partir dos KPI's 8 em diante,COMUNIX; CONTA DIGITAL,8,24,22,In Progress
+Task,48990,Júlio Guimarães Costa <julio.costa@muralis.com.br>,10/05/2024 22:15:12,Criação do componente de Segmentação,COMUNIX,5,8,10,Done
+Task,49151,Júlio Guimarães Costa <julio.costa@muralis.com.br>,14/05/2024 13:46:13,Alterar exibição de dicas,COMUNIX,5,4,4,Done
+Task,49152,Júlio Guimarães Costa <julio.costa@muralis.com.br>,14/05/2024 13:46:30,Alterar Steps para páginas corridas,COMUNIX,5,6,6,Done
+Task,49154,Júlio Guimarães Costa <julio.costa@muralis.com.br>,14/05/2024 13:53:12,Trazer workflow de despesas para módulo GD,COMUNIX,5,12,8,In Progress
+Task,49167,Júlio Guimarães Costa <julio.costa@muralis.com.br>,14/05/2024 14:47:27,Analisar requisitos,COMUNIX,5,2,3,Done
+Task,49168,Júlio Guimarães Costa <julio.costa@muralis.com.br>,14/05/2024 14:48:27,Analisar requisitos,COMUNIX,5,2,1,In Progress
+Task,49192,Júlio Guimarães Costa <julio.costa@muralis.com.br>,14/05/2024 16:55:19,Alinhamento e prototipação do componente Menu List,COMUNIX,3,2,2,Done
+Task,49208,Júlio Guimarães Costa <julio.costa@muralis.com.br>,14/05/2024 18:30:01,Reuniões Júlio [Comunix],COMUNIX,2,4,4,In Progress

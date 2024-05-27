@@ -1,0 +1,6 @@
+﻿Work Item Type,ID,Assigned To,Created Date,Title,Tags,Effort,Original Estimate,Horas executadas,State
+"Task","49219","Amanda Aparecida Cruz <amanda.cruz@muralis.com.br>","15/05/2024 09:13:48","Revisão Dash","GETNOTAS",,"3","3","To Do"
+"Task","49410","Júlia Cristina Torres Barboza <julia.barboza@muralis.com.br>","16/05/2024 13:28:42","Criação de telas GetNotas","GETNOTAS","8","8","8","Test"
+"Task","49068","Júlia Cristina Torres Barboza <julia.barboza@muralis.com.br>","13/05/2024 13:42:30","Briefing Getnotas","GETNOTAS","5","3","3","Test"
+"Task","49124","Júlia Cristina Torres Barboza <julia.barboza@muralis.com.br>","14/05/2024 09:49:22","Análise de telas","GETNOTAS","8","8","8","Test"
+"Task","49125","Júlia Cristina Torres Barboza <julia.barboza@muralis.com.br>","14/05/2024 10:01:53","Criação de Dashboard","GETNOTAS",,"5","4","Test"
