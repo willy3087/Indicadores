@@ -7,11 +7,11 @@ st.set_page_config(page_title='Análise de Indicadores', layout='wide')
 
 # Defina os caminhos dos diretórios dos clientes
 clientes = {
-    'comunix': '/Users/williamduarte/Library/Mobile Documents/com~apple~CloudDocs/Documents/Indicadores/data/Task_Comunix.csv',
-    'jane': '/Users/williamduarte/Library/Mobile Documents/com~apple~CloudDocs/Documents/Indicadores/data/Task_jane.csv',
-    'lead_commex': '/Users/williamduarte/Library/Mobile Documents/com~apple~CloudDocs/Documents/Indicadores/data/Task_Lead.csv',
-    'getnotas': '/Users/williamduarte/Library/Mobile Documents/com~apple~CloudDocs/Documents/Indicadores/data/Task_get notas.csv',
-    'muralis': '/Users/williamduarte/Library/Mobile Documents/com~apple~CloudDocs/Documents/Indicadores/data/Task_muralis.csv'
+    'comunix': 'data/Task_Comunix.csv',
+    'jane': 'data/Task_jane.csv',
+    'lead_commex': 'data/Task_Lead.csv',
+    'getnotas': 'data/Task_get notas.csv',
+    'muralis': 'data/Task_muralis.csv'
 }
 
 # Cores padrão para cada cliente
